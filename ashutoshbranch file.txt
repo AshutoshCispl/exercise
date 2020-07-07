@@ -11,3 +11,5 @@ learning rebase2
 learning rebase2
 
 squash commits1
+squash commits2
+squash commits3
