@@ -8,3 +8,6 @@ fourth line
 
 learning rebase
 learning rebase2
+learning rebase2
+
+squash commits1
